@@ -3,7 +3,7 @@ owner: Max Muster
 email:
 description: A simple and minimalistic jekyll blogging theme
 baseurl: "/minimalist" # the subpath of your site, e.g. /blog
-url: "eilleeenz.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "fanteastick.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 language: en
 twitter_username:
 github_username:

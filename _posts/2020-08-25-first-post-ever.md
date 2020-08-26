@@ -3,7 +3,7 @@ layout: post
 title:  "My first blog post here"
 date:   2020-08-25 05:24:33 
 categories: casual
-comments: true
+comments: false
 published: true
 ---
 

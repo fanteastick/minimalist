@@ -1,3 +1,9 @@
+# Preface
+
+Eilleen's personal blog on min.eilleeenz.com, built with Jekyll theme Minimalist. Everything below is the Minimalist readme!
+
+
+
 # Minimalist
 
 [![Build Status](https://travis-ci.org/Trybnetic/minimalist.svg?branch=master)](https://travis-ci.org/Trybnetic/minimalist)

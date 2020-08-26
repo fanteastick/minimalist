@@ -3,7 +3,7 @@ layout: post
 title:  "Freshly-baked dreams"
 date:   2020-08-25 05:24:09
 categories: casual
-comments: true
+comments: false
 published: true
 ---
 

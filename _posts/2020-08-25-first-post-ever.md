@@ -2,7 +2,7 @@
 layout: post
 title:  "My first blog post here"
 date:   2020-08-25 05:24:33 
-categories: update
+categories: casual
 comments: true
 published: true
 ---
@@ -19,7 +19,7 @@ This is my base site: [Eilleen's Homepage][eilleeenz]
 
 1. Choose theme (linked above)
 2. Made subdomain (CNAME record pointing to my `user.github.io` and named `min`)
-3. A mess of various tutorials/[Jekyll quickstarts][jekyll-docs]
+3. A mess of various tutorials: [Jekyll quickstarts][jekyll-docs]
 4. Insert frustration, taking healthy breaks, fiddling with multiple different settings
 5. Fix the css stylesheet linking by reading through [this gitlab thread][gitlab-thread]
 6. Done!

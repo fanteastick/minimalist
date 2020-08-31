@@ -1,6 +1,7 @@
 ---
 layout: category
-category: pro
-permalink: /categories/pro/
+category: serious
+permalink: /categories/serious/
+number: 1
 ---
 This the category for more professional, serious work-related things.

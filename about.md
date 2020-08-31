@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+
+
+
 Here's some information about the Jekyll template that I used, Minimalist.
 
 

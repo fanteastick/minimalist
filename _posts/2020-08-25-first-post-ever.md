@@ -2,7 +2,7 @@
 layout: post
 title:  "My first blog post here"
 date:   2020-08-25 05:24:33 
-categories: casual
+categories: serious casual
 comments: false
 published: true
 ---
@@ -25,15 +25,15 @@ This is my base site: [Eilleen's Homepage][eilleeenz]
 6. Done!
 
 ### Planned additions/changes to the blog:
-- change overall styling to match my main website
-- more intuitive & easy-to-see tagging system
-- updating the subdomain name
-- writing the 'About' page
-- set up Travis CI (currently keeps breaking, unsure why)
-- link to blog from main site
-- twitter feed box somewhere; maybe like a "socials" page? Because I post frequently on twitter
-- switch to https
-- a distinct blogging/writing style :)
+- [x] change overall styling to match my main website
+- [x] more intuitive & easy-to-see tagging system
+- [x] updating the subdomain name
+- [ ] writing the 'About' page
+- [ ] set up Travis CI (currently keeps breaking, unsure why)
+- [ ] link to blog from main site
+- [ ] twitter feed box somewhere; maybe like a "socials" page? Because I post frequently on twitter
+- [ ] switch to https
+- [ ] a distinct blogging/writing style :)
 
 Thanks for reading!
 ~ Eilleen

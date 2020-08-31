@@ -10,6 +10,20 @@ body	{
 
 }
 
+span.highlight, mark {
+	background-color: #FFB48B;
+}
+
+span.wavy_underline{
+  text-decoration: underline;
+  -webkit-text-decoration-color: salmon;
+  text-decoration-color: salmon;
+  -webkit-text-decoration-style: wavy;
+  text-decoration-style: wavy;
+}
+
+/* ----------------------- */
+
 a:link, a:visited	{
 	text-decoration: none;
 	color:#000
@@ -86,6 +100,11 @@ a:hover	{
 
 #post-short a:hover	{
 	text-decoration: underline;
+	/*text-decoration: underline;
+	-webkit-text-decoration-color: salmon;
+	text-decoration-color: salmon;
+	-webkit-text-decoration-style: wavy;
+	text-decoration-style: wavy;*/
 }
 
 #post-short h3, #post h2	{

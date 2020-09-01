@@ -1,13 +1,15 @@
-title: Blog
+title: Eilleen's Blog
 owner: Eilleen Zhang
 email: hello@eilleeenz.com
-description: Eilleen Zhang's Blog. Contact me at hello@eilleeenz.com!
+description: Eilleen Zhang's Blog! for all-purpose posts about various things. Contact me at hello@eilleeenz.com!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.eilleeenz.com" # the base hostname & protocol for your site, e.g. http://example.com
 language: en
-twitter_username: eilleeenz
-github_username:
-disqus_username: 
+# twitter_username: eilleeenz
+# github_username:
+# disqus_username: 
+# above were taken out for jekyll-seo-tag stuff below
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -16,11 +18,17 @@ permalink: /:year/:month/:day/:title/
 
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/bundle
 excerpt_separator: <!--more-->
 
-plugins_dir: 
-  - jekyll-seo-tag
+
+
+# stuff for jekyll-seo-tag:
+tagline: All-purpose personal blog
+twitter:
+  username: eilleeenz
+  card: summary

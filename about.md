@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
+My name is <span class="wavy_underline">Eilleen Zhang</span>. Welcome to my blog. To learn more about me, check out my [homepage](https://eilleeenz.com/).
 
 
 Here's some information about the Jekyll template that I used, Minimalist.

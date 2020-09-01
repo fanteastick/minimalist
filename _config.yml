@@ -1,11 +1,11 @@
 title: Blog
 owner: Eilleen Zhang
 email: hello@eilleeenz.com
-description: The beginning stages of my personal blog
+description: Eilleen Zhang's Blog. Contact me at hello@eilleeenz.com!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://min.eilleeenz.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.eilleeenz.com" # the base hostname & protocol for your site, e.g. http://example.com
 language: en
-twitter_username:
+twitter_username: eilleeenz
 github_username:
 disqus_username: 
 # Build settings

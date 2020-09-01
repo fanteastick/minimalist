@@ -8,7 +8,6 @@ title: Eilleen's Personal Blog
 
 Welcome to my blog! This is the feed of all posts. Click on a post's title to see the full post.
 
-
 {% for post in site.posts %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">

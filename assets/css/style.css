@@ -10,14 +10,19 @@ body	{
 
 }
 
+span.double_underline{
+	-webkit-text-decoration: #FFB48B double underline;
+	text-decoration: #FFB48B double underline;
+}
+
 span.highlight, mark {
 	background-color: #FFB48B;
 }
 
 span.wavy_underline{
   text-decoration: underline;
-  -webkit-text-decoration-color: salmon;
-  text-decoration-color: salmon;
+  -webkit-text-decoration-color: #FFB48B;
+  text-decoration-color: #FFB48B;
   -webkit-text-decoration-style: wavy;
   text-decoration-style: wavy;
 }
@@ -31,6 +36,8 @@ a:link, a:visited	{
 
 a:hover	{
 	text-decoration: underline;
+	-webkit-text-decoration-color: #FFB48B;
+  	text-decoration-color: #FFB48B;
 }
 
 
@@ -86,7 +93,8 @@ a:hover	{
 
 #content-left a:link, #content-left a:visited	{
 	text-decoration: underline;
-	color:#000
+	-webkit-text-decoration-color: #FFB48B;
+    text-decoration-color: #FFB48B;
 }
 
 #content-left a:hover	{
@@ -100,6 +108,8 @@ a:hover	{
 
 #post-short a:hover	{
 	text-decoration: underline;
+    -webkit-text-decoration-color: #FFB48B;
+    text-decoration-color: #FFB48B;
 	/*text-decoration: underline;
 	-webkit-text-decoration-color: salmon;
 	text-decoration-color: salmon;
@@ -130,6 +140,8 @@ a:hover	{
 
 #categories a:hover {
 	text-decoration: underline;
+	-webkit-text-decoration-color: #FFB48B;
+    text-decoration-color: #FFB48B;
 }
 
 @media screen and (max-width: 850px) {

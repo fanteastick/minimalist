@@ -2,7 +2,7 @@
 layout: post
 title:  "My first virtual hackathon: Sun's Out Hacks Out"
 date:   2020-08-31 03:42:48 
-categories: labnotes
+categories: labnotes frontpage
 comments: false
 published: true
 ---

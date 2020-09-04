@@ -2,7 +2,7 @@
 layout: post
 title:  "My first blog post here"
 date:   2020-08-25 05:24:33 
-categories: serious casual
+categories: serious casual frontpage
 comments: false
 published: true
 ---
@@ -28,11 +28,11 @@ This is my base site: [Eilleen's Homepage][eilleeenz]
 - [x] change overall styling to match my main website
 - [x] more intuitive & easy-to-see tagging system
 - [x] updating the subdomain name
-- [ ] writing the 'About' page
+- [x] writing the 'About' page
 - [ ] set up Travis CI (currently keeps breaking, unsure why)
-- [ ] link to blog from main site
+- [x] link to blog from main site
 - [ ] twitter feed box somewhere; maybe like a "socials" page? Because I post frequently on twitter
-- [ ] switch to https
+- [x] switch to https
 - [ ] a distinct blogging/writing style :)
 
 Thanks for reading!

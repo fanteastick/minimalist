@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eilleen's Personal Blog - Full Feed
+title: All Posts
 permalink: /all/
 ---
 

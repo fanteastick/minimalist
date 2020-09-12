@@ -33,3 +33,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jekyll-seo-tag'
 
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+gem 'kramdown'

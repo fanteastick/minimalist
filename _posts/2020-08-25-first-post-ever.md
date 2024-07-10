@@ -39,6 +39,6 @@ Thanks for reading!
 ~ Eilleen
 
 [minimalist-origin]: http://marc-weitz.de/minimalist/
-[eilleeenz]:   https://eilleeenz.com/
+[eilleeenz]:   https://orange.eilleeenz.com/
 [jekyll-docs]: https://jekyllrb.com/docs/
 [gitlab-thread]: https://gitlab.com/pages/jekyll/-/issues/22

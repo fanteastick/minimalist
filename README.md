@@ -1,6 +1,6 @@
 # Preface
 
-Eilleen's personal blog on min.eilleeenz.com, built with Jekyll theme Minimalist. Everything below is the Minimalist readme!
+Eilleen's personal blog on orangeblog.eilleeenz.com, built with Jekyll theme Minimalist. Everything below is the Minimalist readme!
 
 
 
